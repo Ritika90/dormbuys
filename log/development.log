@@ -62,3 +62,8 @@ Completed in 4ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/welcome/index]
 Processing WelcomeController#index (for 127.0.0.1 at 2015-03-04 14:53:30) [GET]
 Rendering welcome/index
 Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/welcome/index]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2015-03-04 15:34:43) [GET]
+Rendering welcome/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
